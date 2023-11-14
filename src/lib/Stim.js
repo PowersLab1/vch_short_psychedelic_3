@@ -79,7 +79,7 @@ function createPatch(stim) {
    var stim = {
      duration: 300, // in ms
      amp: 15,
-     frequency: 1500, 
+     frequency: 1500,
    };
 
    return stim;
